@@ -1,0 +1,45 @@
+h1 {
+    color: pink;
+    text-align: center;
+}
+
+.first-gift {
+    background-color: #a8071a;
+    width: 1000px;
+    height: 600px;
+    border-radius: 50px;
+}
+
+.fg-title {
+    text-align: center;
+}
+
+.birthday-text {
+    text-align: center;
+}
+
+.over-btn {
+    position: relative;
+    left: 420px;
+}
+
+.fg-body {
+    position: relative;
+    left: 380px;
+}
+
+.previous-btn {
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 300px;
+}
+
+.next-btn {
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 700px;
+}
+
+.potrait-image {
+    border-radius: 20px;
+}
